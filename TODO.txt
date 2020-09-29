@@ -1,1 +1,2 @@
-- zmienić readme by bardziej opisywał co jest w tym projekcie itp
+- zmienić readme by bardziej opisywał co jest w tym projekcie itp;
+- napisać że jest to zrobione w formie publikacji naukowej;
