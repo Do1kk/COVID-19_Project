@@ -1,0 +1,1 @@
+- zmienić readme by bardziej opisywał co jest w tym projekcie itp
